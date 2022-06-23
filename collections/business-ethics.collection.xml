@@ -1,0 +1,75 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10491</md:content-id>
+    <md:title>Business Ethics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>3d8499e9-08c0-47dd-9482-7e8131ce99bc</md:uuid>
+<md:slug>business-ethics</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Ethical Leadership</md:title>
+      <col:content>
+        <col:module document="m13764"/>
+        <col:module document="m13755"/>
+        <col:module document="m14256"/>
+        <col:module document="m13760"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethical Decision-Making</md:title>
+      <col:content>
+        <col:module document="m15554"/>
+        <col:module document="m13757"/>
+        <col:module document="m15783"/>
+        <col:module document="m14025"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>CSR (Corporate Social Responsibility)</md:title>
+      <col:content>
+        <col:module document="m17314"/>
+        <col:module document="m17353"/>
+        <col:module document="m17318"/>
+        <col:module document="m15627"/>
+        <col:module document="m19085"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>CG (Corporate Governance)</md:title>
+      <col:content>
+        <col:module document="m17367"/>
+        <col:module document="m14319"/>
+        <col:module document="m13849"/>
+        <col:module document="m18646"/>
+        <col:module document="m14468"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Business Ethics Case Studies</md:title>
+      <col:content>
+        <col:module document="m15187"/>
+        <col:module document="m14036"/>
+        <col:module document="m13765"/>
+        <col:module document="m14789"/>
+        <col:module document="m14257"/>
+        <col:module document="m13818"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Business Ethics Bowl</md:title>
+      <col:content>
+        <col:module document="m13759"/>
+        <col:module document="m13852"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Course Procedures</md:title>
+      <col:content>
+        <col:module document="m14059"/>
+        <col:module document="m13788"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
