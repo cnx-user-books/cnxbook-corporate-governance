@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="William Frey ,Jose A. Cruz-Cruz">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10396</md:content-id>
     <md:title>Corporate Governance</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>1613594f-f566-4f5a-a7d2-7e8ce8e3eaef</md:uuid>
-<md:slug>corporate-governance</md:slug>
-</metadata>
+    <md:slug>corporate-governance</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Ethical Leadership</md:title>
