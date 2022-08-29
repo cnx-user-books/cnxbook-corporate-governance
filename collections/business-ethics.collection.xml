@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="William Frey ,Jose A. Cruz-Cruz">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10491</md:content-id>
     <md:title>Business Ethics</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>3d8499e9-08c0-47dd-9482-7e8131ce99bc</md:uuid>
-<md:slug>business-ethics</md:slug>
-</metadata>
+    <md:slug>business-ethics</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Ethical Leadership</md:title>
